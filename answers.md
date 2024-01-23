@@ -63,3 +63,11 @@ Answer 10
 no, nothing changed
 
 Answer 11
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/kscarito/git-lab1.git/'
+
+Answer 12
+yes they were
+
+ Answer 13
+ .  ..  .git  .gitignore  README.md
